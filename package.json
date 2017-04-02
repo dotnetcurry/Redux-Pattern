@@ -1,0 +1,14 @@
+{
+  "name": "redux-in-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Gil Fink <gil@sparxys.com> (http://www.gilfink.net)",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
